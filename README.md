@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **agustinescalanterojo@gmail.com**
 
-- ⚡ Fun fact **I love playing with my children**
+- ⚡ Fun fact: **I love playing with my children**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
