@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://agustinescalanterojo.github.io/](https://agustinescalanterojo.github.io/)
 
-- 💬 Ask me about **HTML, CSS, Javascript y React**
+- 💬 Ask me about **HTML, CSS, Javascript, React and Wordpress**
 
 - 📫 How to reach me **agustinescalanterojo@gmail.com**
 
-- ⚡ Fun fact: **I love playing with my children**
+- ⚡ Fun fact: **I love playing with my childrens**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
